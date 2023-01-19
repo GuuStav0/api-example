@@ -1,0 +1,64 @@
+{
+  "pessoa": [
+    {
+      "id": 1,
+      "nome": "Luiz Gustavo",
+      "instagram": "LuuizGustavo",
+      "fone": "18996694585"
+    },
+    {
+      "id": 2,
+      "nome": "Lucas Albino",
+      "instagram": "LuCaAs",
+      "fone": "18989338212"
+    },
+    {
+      "id": 3,
+      "nome": "Bruno Felipe",
+      "instagram": "Bruun0Felp",
+      "fone": "18994431323"
+    },
+    {
+      "id": 4,
+      "nome": "João Pedro",
+      "instagram": "JãOPodre",
+      "fone": "18989338212"
+    },
+    {
+      "id": 5,
+      "nome": "Gustavo",
+      "instagram": "GuuSt4v0",
+      "fone": "18996694585"
+    },
+    {
+      "id": 6,
+      "nome": "Hugo Henrique",
+      "instagram": "HuGoooHrq",
+      "fone": "18996694585"
+    },
+    {
+      "id": 7,
+      "nome": "João Lucas",
+      "instagram": "JãOoOLs",
+      "fone": "18989338212"
+    }
+  ],
+  "categoria":
+  [
+    {
+        "id": 1,
+        "titulo": "Gráfica",
+        "descricao": "Produtos gráficos para empresa"
+    },
+    {
+        "id": 2,
+        "titulo": "Filiados",
+        "descricao": "Produtos gráficos para empresa"
+    },
+    {
+        "id": 3,
+        "titulo": "Gráfica",
+        "descricao": "Produtos gráficos para empresa"
+    }
+  ]
+}
